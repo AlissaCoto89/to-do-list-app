@@ -6,6 +6,10 @@ body {
   color: #025f70;
 }
 
+h2 {
+  text-align: center;
+}
+
 .container {
   padding: 20px;
   width: 300px;
