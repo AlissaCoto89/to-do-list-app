@@ -1,6 +1,7 @@
 # to-do-list-app
 
-Application that utilizes jQuery. 
+## Intro: 
+Application that utilizes jQuery to make a To Do List. 
 
 ## Key Features:
 
