@@ -18,4 +18,5 @@ Application that utilizes jQuery to make a To Do List.
 https://alissacoto89.github.io/to-do-list-app/
 
 
-![toDoList](https://user-images.githubusercontent.com/109038162/225139415-0257f224-a63a-4b6d-b037-b8dc87bbaa07.png)
+![todolist](https://user-images.githubusercontent.com/109038162/231579175-de9a21a0-46a3-4665-b11d-5b52a13d64f9.png)
+
